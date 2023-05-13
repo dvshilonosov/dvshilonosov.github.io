@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Chinese website title...</title>
-    <link>https://dvshilonosov.com/ru/post/</link>
-      <atom:link href="https://dvshilonosov.com/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | dvshilonosov</title>
+    <link>https://example.com/ru/post/</link>
+      <atom:link href="https://example.com/ru/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dvshilonosov.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://dvshilonosov.com/ru/post/</link>
+      <link>https://example.com/ru/post/</link>
     </image>
     
     <item>
-      <title>Writing technical content in Markdown</title>
-      <link>https://dvshilonosov.com/ru/post/markdown/</link>
+      <title>Написание технического контента в Markdown</title>
+      <link>https://example.com/ru/post/markdown/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/post/markdown/</guid>
-      <description>&lt;h2 id=&#34;предварительные-сведения&#34;&gt;Предварительные сведения&lt;/h2&gt;
+      <guid>https://example.com/ru/post/markdown/</guid>
+      <description>&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
+&lt;h2 id=&#34;предварительные-сведения&#34;&gt;Предварительные сведения&lt;/h2&gt;
 &lt;h3 id=&#34;базовые-сведения-о-markdown&#34;&gt;Базовые сведения о Markdown&lt;/h3&gt;
 &lt;p&gt;Чтобы создать заголовок, используйте знак ( # ), например:
 1 # This is heading 1
@@ -55,42 +56,10 @@ survive.
     
     <item>
       <title>Командные процессоры (оболочки)</title>
-      <link>https://dvshilonosov.com/ru/post/shell/</link>
+      <link>https://example.com/ru/post/shell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/post/shell/</guid>
-      <description>&lt;h1 id=&#34;summary-for-listings-and-search-engines&#34;&gt;Summary for listings and search engines&lt;/h1&gt;
-&lt;p&gt;summary: Добро пожаловать 👋 Здесь Вы узнаете, как пользоваться мощным текстовым редактором vim.&lt;/p&gt;
-&lt;h1 id=&#34;link-this-post-with-a-project&#34;&gt;Link this post with a project&lt;/h1&gt;
-&lt;p&gt;projects: []&lt;/p&gt;
-&lt;h1 id=&#34;date-published&#34;&gt;Date published&lt;/h1&gt;
-&lt;p&gt;date: &amp;lsquo;2020-12-14T00:00:00Z&amp;rsquo;&lt;/p&gt;
-&lt;h1 id=&#34;date-updated&#34;&gt;Date updated&lt;/h1&gt;
-&lt;p&gt;lastmod: &amp;lsquo;2020-12-14T00:00:00Z&amp;rsquo;&lt;/p&gt;
-&lt;h1 id=&#34;is-this-an-unpublished-draft&#34;&gt;Is this an unpublished draft?&lt;/h1&gt;
-&lt;p&gt;draft: false&lt;/p&gt;
-&lt;h1 id=&#34;show-this-page-in-the-featured-widget&#34;&gt;Show this page in the Featured widget?&lt;/h1&gt;
-&lt;p&gt;featured: false&lt;/p&gt;
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-&lt;h1 id=&#34;place-an-image-named-featuredjpgpng-in-this-pages-folder-and-customize-its-options-here&#34;&gt;Place an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; in this page&amp;rsquo;s folder and customize its options here.&lt;/h1&gt;
-&lt;p&gt;image:
-caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://cdn.iconscout.com/icon/free/png-256/markdown-2-458334.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Unknown&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;
-focal_point: &amp;rsquo;&#39;
-placement: 2
-preview_only: false&lt;/p&gt;
-&lt;p&gt;authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;admin&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Academic&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Demo&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
+      <guid>https://example.com/ru/post/shell/</guid>
+      <description>&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
 &lt;p&gt;Командный процессор (командная оболочка, интерпретатор команд shell) — это программа, позволяющая пользователю взаимодействовать с операционной системой компьютера. В операционных системах типа UNIX/Linux наиболее часто используются следующие реализации командных оболочек:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;оболочка Борна (Bourne shell или sh) — стандартная командная оболочка UNIX/Linux, содержащая базовый, но при этом полный набор функций;&lt;/li&gt;
@@ -104,42 +73,10 @@ POSIX (Portable Operating System Interface for Computer Environments) — наб
     
     <item>
       <title>Научные языки программирования</title>
-      <link>https://dvshilonosov.com/ru/post/spl/</link>
+      <link>https://example.com/ru/post/spl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/post/spl/</guid>
-      <description>&lt;h1 id=&#34;summary-for-listings-and-search-engines&#34;&gt;Summary for listings and search engines&lt;/h1&gt;
-&lt;p&gt;summary: Добро пожаловать 👋 Здесь Вы узнаете о научных языках программирования.&lt;/p&gt;
-&lt;h1 id=&#34;link-this-post-with-a-project&#34;&gt;Link this post with a project&lt;/h1&gt;
-&lt;p&gt;projects: []&lt;/p&gt;
-&lt;h1 id=&#34;date-published&#34;&gt;Date published&lt;/h1&gt;
-&lt;p&gt;date: &amp;lsquo;2020-12-13T00:00:00Z&amp;rsquo;&lt;/p&gt;
-&lt;h1 id=&#34;date-updated&#34;&gt;Date updated&lt;/h1&gt;
-&lt;p&gt;lastmod: &amp;lsquo;2020-12-13T00:00:00Z&amp;rsquo;&lt;/p&gt;
-&lt;h1 id=&#34;is-this-an-unpublished-draft&#34;&gt;Is this an unpublished draft?&lt;/h1&gt;
-&lt;p&gt;draft: false&lt;/p&gt;
-&lt;h1 id=&#34;show-this-page-in-the-featured-widget&#34;&gt;Show this page in the Featured widget?&lt;/h1&gt;
-&lt;p&gt;featured: false&lt;/p&gt;
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-&lt;h1 id=&#34;place-an-image-named-featuredjpgpng-in-this-pages-folder-and-customize-its-options-here&#34;&gt;Place an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; in this page&amp;rsquo;s folder and customize its options here.&lt;/h1&gt;
-&lt;p&gt;image:
-caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://www.google.com/url?sa=i&amp;amp;url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ficonic-brands%2Fmatlab-logo&amp;amp;psig=AOvVaw1-zySYPFOyqPm1rourviz6&amp;amp;ust=1682876776668000&amp;amp;source=images&amp;amp;cd=vfe&amp;amp;ved=0CA4QjRxqFwoTCLCVgNbSz_4CFQAAAAAdAAAAABAE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Unknown&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;
-focal_point: &amp;rsquo;&#39;
-placement: 2
-preview_only: false&lt;/p&gt;
-&lt;p&gt;authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;admin&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Academic&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Demo&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
+      <guid>https://example.com/ru/post/spl/</guid>
+      <description>&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
 &lt;p&gt;Научные языки программирования - это языки программирования, специально созданные для решения задач в научных областях, таких как математика, физика, химия, биология и другие.&lt;/p&gt;
 &lt;p&gt;Один из наиболее распространенных научных языков программирования - это MATLAB, который используется для численных расчетов, обработки данных и визуализации результатов. MATLAB имеет богатую библиотеку функций и инструментов, позволяющих решать различные задачи в области научных исследований.&lt;/p&gt;
 &lt;p&gt;Еще одним известным языком программирования для научных целей является R. Он используется для статистического анализа данных и машинного обучения. R имеет мощную библиотеку пакетов, которые позволяют исследователям проводить различные анализы и создавать графики.&lt;/p&gt;
@@ -150,42 +87,10 @@ preview_only: false&lt;/p&gt;
     
     <item>
       <title>Редактор vim</title>
-      <link>https://dvshilonosov.com/ru/post/vim/</link>
+      <link>https://example.com/ru/post/vim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/post/vim/</guid>
-      <description>&lt;h1 id=&#34;summary-for-listings-and-search-engines&#34;&gt;Summary for listings and search engines&lt;/h1&gt;
-&lt;p&gt;summary: Добро пожаловать 👋 Здесь Вы узнаете, как пользоваться мощным текстовым редактором vim.&lt;/p&gt;
-&lt;h1 id=&#34;link-this-post-with-a-project&#34;&gt;Link this post with a project&lt;/h1&gt;
-&lt;p&gt;projects: []&lt;/p&gt;
-&lt;h1 id=&#34;date-published&#34;&gt;Date published&lt;/h1&gt;
-&lt;p&gt;date: &amp;lsquo;2020-12-13T00:00:00Z&amp;rsquo;&lt;/p&gt;
-&lt;h1 id=&#34;date-updated&#34;&gt;Date updated&lt;/h1&gt;
-&lt;p&gt;lastmod: &amp;lsquo;2020-12-13T00:00:00Z&amp;rsquo;&lt;/p&gt;
-&lt;h1 id=&#34;is-this-an-unpublished-draft&#34;&gt;Is this an unpublished draft?&lt;/h1&gt;
-&lt;p&gt;draft: false&lt;/p&gt;
-&lt;h1 id=&#34;show-this-page-in-the-featured-widget&#34;&gt;Show this page in the Featured widget?&lt;/h1&gt;
-&lt;p&gt;featured: false&lt;/p&gt;
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-&lt;h1 id=&#34;place-an-image-named-featuredjpgpng-in-this-pages-folder-and-customize-its-options-here&#34;&gt;Place an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; in this page&amp;rsquo;s folder and customize its options here.&lt;/h1&gt;
-&lt;p&gt;image:
-caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://guinuxbr.com/img/vim-cheat-sheet/vim-logo.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Unknown&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;
-focal_point: &amp;rsquo;&#39;
-placement: 2
-preview_only: false&lt;/p&gt;
-&lt;p&gt;authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;admin&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Academic&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Demo&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
+      <guid>https://example.com/ru/post/vim/</guid>
+      <description>&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
 &lt;h2 id=&#34;указания-к-работе&#34;&gt;Указания к работе&lt;/h2&gt;
 &lt;p&gt;В большинстве дистрибутивов Linux в качестве текстового редактора по умолчанию устанавливается интерактивный экранный редактор vi (Visual display editor).
 Редактор vi имеет три режима работы:&lt;/p&gt;

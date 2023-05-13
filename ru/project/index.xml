@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Chinese website title...</title>
-    <link>https://dvshilonosov.com/ru/project/</link>
-      <atom:link href="https://dvshilonosov.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | dvshilonosov</title>
+    <link>https://example.com/ru/project/</link>
+      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dvshilonosov.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://dvshilonosov.com/ru/project/</link>
+      <link>https://example.com/ru/project/</link>
     </image>
     
     <item>
-      <title>Website creation</title>
-      <link>https://dvshilonosov.com/ru/project/example/</link>
+      <title>Создание сайта</title>
+      <link>https://example.com/ru/project/example/</link>
       <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/project/example/</guid>
+      <guid>https://example.com/ru/project/example/</guid>
       <description>&lt;p&gt;Как сделать сайт самому: все способы&lt;/p&gt;
 &lt;p&gt;Тем, кто хочет разработать сайт, сегодня можно выбрать любой из 3 вариантов:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;написать проект с нуля на HTML, CSS и Javascript;
@@ -68,9 +68,8 @@ OpenCart&lt;/p&gt;
 Система аналитики. Она встроена в OpenCart, но если её базовых функций будет недостаточно, можно расширить их, подключив Google Analytics или Яндекс.Метрику.
 
 Хороший набор базовых функций. Можно настроить фильтры товаров, подключить нужную систему оплаты, добавить функцию подписки и многое другое.
-
-Можно управлять несколькими сайтами из одной админки.
 &lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Можно управлять несколькими сайтами из одной админки.&lt;/p&gt;
 &lt;p&gt;Недостатки OpenCart&lt;/p&gt;
 &lt;p&gt;Эта CMS-система тоже не идеальна. Вот несколько минусов, на которые чаще всего жалуются пользователи OpenCart:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;Если установить слишком много плагинов, платформа может работать медленно и тормозить работу ваших сайтов.
@@ -106,10 +105,10 @@ OpenCart&lt;/p&gt;
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://dvshilonosov.com/ru/project/external-project/</link>
+      <title>Внешний проект</title>
+      <link>https://example.com/ru/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/project/external-project/</guid>
+      <guid>https://example.com/ru/project/external-project/</guid>
       <description></description>
     </item>
     

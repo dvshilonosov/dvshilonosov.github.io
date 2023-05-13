@@ -2,147 +2,357 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dvshilonosov.com/ru/talk/example-talk/</loc>
+    <loc>https://example.com/ru/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/talk/example-talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/talk/example-talk/"
+                />
   </url><url>
-    <loc>https://dvshilonosov.com/ru/event/</loc>
+    <loc>https://example.com/ru/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/event/"
+                />
   </url><url>
-    <loc>https://dvshilonosov.com/ru/tag/programming/</loc>
-    <lastmod>2023-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dvshilonosov.com/ru/project/</loc>
-    <lastmod>2023-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dvshilonosov.com/ru/tags/</loc>
+    <loc>https://example.com/ru/project/</loc>
     <lastmod>2023-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dvshilonosov.com/tags/"
+                href="https://example.com/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://dvshilonosov.com/ru/tags/"
+                href="https://example.com/ru/project/"
                 />
   </url><url>
-    <loc>https://dvshilonosov.com/ru/project/example/</loc>
+    <loc>https://example.com/ru/tags/</loc>
+    <lastmod>2023-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/tags/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/tag/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</loc>
     <lastmod>2023-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dvshilonosov.com/ru/</loc>
+    <loc>https://example.com/ru/project/example/</loc>
+    <lastmod>2023-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/project/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/project/example/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dvshilonosov.com/"
+                href="https://example.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://dvshilonosov.com/ru/"
+                href="https://example.com/ru/"
                 />
   </url><url>
-    <loc>https://dvshilonosov.com/ru/post/</loc>
+    <loc>https://example.com/ru/post/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/post/"
+                />
   </url><url>
-    <loc>https://dvshilonosov.com/ru/post/markdown/</loc>
+    <loc>https://example.com/ru/post/markdown/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/post/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/post/markdown/"
+                />
   </url><url>
-    <loc>https://dvshilonosov.com/ru/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dvshilonosov.com/ru/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dvshilonosov.com/ru/publication_types/</loc>
+    <loc>https://example.com/ru/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dvshilonosov.com/publication_types/"
+                href="https://example.com/publication-type/3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://dvshilonosov.com/ru/publication_types/"
+                href="https://example.com/ru/publication-type/3/"
                 />
   </url><url>
-    <loc>https://dvshilonosov.com/ru/publication/</loc>
+    <loc>https://example.com/ru/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dvshilonosov.com/ru/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dvshilonosov.com/ru/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dvshilonosov.com/ru/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dvshilonosov.com/ru/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dvshilonosov.com/ru/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dvshilonosov.com/ru/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dvshilonosov.com/ru/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dvshilonosov.com/ru/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dvshilonosov.com/ru/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dvshilonosov.com/ru/admin/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dvshilonosov.com/ru/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dvshilonosov.com/categories/"
+                href="https://example.com/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://dvshilonosov.com/ru/categories/"
+                href="https://example.com/ru/publication/preprint/"
                 />
   </url><url>
-    <loc>https://dvshilonosov.com/ru/post/shell/</loc>
+    <loc>https://example.com/ru/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/publication_types/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/publication/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/tag/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/tag/source-themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/tag/source-themes/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/slides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/slides/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/slides/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/slides/example/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/project/external-project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/project/external-project/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/tag/%D0%B4%D0%B5%D0%BC%D0%BE/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dvshilonosov.com/ru/post/spl/</loc>
+    <loc>https://example.com/ru/publication-type/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/publication-type/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/publication-type/2/"
+                />
   </url><url>
-    <loc>https://dvshilonosov.com/ru/post/vim/</loc>
+    <loc>https://example.com/ru/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/publication/journal-article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/publication/journal-article/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/publication-type/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/publication-type/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/publication-type/1/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/publication/conference-paper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/publication/conference-paper/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/admin/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/admin/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/categories/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/post/shell/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/post/shell/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/post/shell/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/post/spl/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/post/spl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/post/spl/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/post/vim/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/post/vim/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/post/vim/"
+                />
   </url>
 </urlset>

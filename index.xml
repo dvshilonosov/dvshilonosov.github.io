@@ -2,15 +2,535 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dvshilonosov</title>
-    <link>https://dvshilonosov.com/</link>
-      <atom:link href="https://dvshilonosov.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>dvshilonosov</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dvshilonosov.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>dvshilonosov</title>
-      <link>https://dvshilonosov.com/</link>
+      <link>https://example.com/</link>
     </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://example.com/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Website creation</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;p&gt;How to make a website yourself: all the ways&lt;/p&gt;
+&lt;p&gt;For those who want to develop a website, today you can choose any of 3 options:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; write a project from scratch in HTML, CSS and Javascript;
+
+ collect it on the website builder;
+
+ run through the CMS system.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The first option for creating websites is the most time-consuming of all. To tell from and to about all the stages and processes in it, even one long article is not enough. Therefore, we will talk about this method next time. But if the easy way isn&amp;rsquo;t for you, start learning these languages with the Skysmart website building course. There we will talk about the features of each of them, teach you how to code and introduce you to the basics of web design.&lt;/p&gt;
+&lt;p&gt;And in this article we will analyze the last two methods: website builders and CMS systems.
+What are CMS systems and how to create sites on them&lt;/p&gt;
+&lt;p&gt;First, let&amp;rsquo;s figure out what lies behind this abbreviation - CMS.&lt;/p&gt;
+&lt;p&gt;CMS is a content management system; a special program with a wide range of functions that allows you to create, edit and manage content on the site.&lt;/p&gt;
+&lt;p&gt;Simply put, CMS is a kind of engine for Internet resources, with which you can customize them. Now let&amp;rsquo;s take a quick look at a few popular CMS systems and compare them with each other.
+WordPress&lt;/p&gt;
+&lt;p&gt;WordPress is one of the most popular CMS platforms. It has many ready-made templates, and you can also create a blog, business card site and other projects based on this platform for free. And all this - without knowing the code! The best thing is to make your first website on your own.&lt;/p&gt;
+&lt;p&gt;And if you also set up plugins and add to this the skills of working with the PHP programming language, you can increase the capabilities of Wordpress beyond its basic ones.&lt;/p&gt;
+&lt;p&gt;Benefits of WordPress&lt;/p&gt;
+&lt;p&gt;To understand why this CMS is so popular, let&amp;rsquo;s look at some of its advantages.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; You can create a website on the platform for free. You only pay for the domain name and hosting. Moreover, both can also be found in the free version due to trial periods, etc.
+
+ Just install the program. You can set up WordPress for work in a few clicks.
+
+ Auto update. When a newer version of the CMS is released, it will be installed automatically.
+
+ Intuitive work. WordPress has a clear interface: one glance at the button is enough to understand what it is for.
+
+ Lots of templates. On the platform, you can find a bunch of ready-made solutions for sites of various formats: online blogs, information resources, etc. This makes it easy for a beginner to create sites on WordPress.
+
+ The platform automatically adapts the site for different devices. This allows your projects to remain relevant to people who visit them from smartphones, PCs, laptops and tablets.
+
+ &amp;quot;Living&amp;quot; community. If you have any problems while working on the site, you can always find the answer to any question on the forum. And if it didn’t work out, just ask it and you will definitely be answered.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Disadvantages of WordPress&lt;/p&gt;
+&lt;p&gt;As good as this platform is, it also has its downsides. Let&amp;rsquo;s take a look at a few of them. This will help avoid unpleasant surprises if you ever want to work on it.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; Many plugins are made by third party developers. This means that they may not be compatible with official WordPress updates. And they also have errors that can “break” your design, and even viruses.
+
+ Safety. WordPress is open source software. This means that it is easier for fraudsters to find weaknesses in it in order to use your project for their own purposes.
+
+ No technical support from developers. If you run into a problem, you can not expect that you will write one letter and everything will be decided for you. On the other hand, we already wrote above about the developed WordPress community, which you can come to for advice.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We briefly talked about WordPress, but do not think that this is where our acquaintance with this CMS ended. In the second part of the article, we will return to it to understand how it works and how to create your first site on it from scratch.
+opencart&lt;/p&gt;
+&lt;p&gt;OpenCart is a shareware CMS system popular in Russia. It is mainly suitable for the development of online stores. For example, in the Russian Federation, more than 30% of e-commerce projects have been assembled on the basis of this platform. Those who have already used OpenCart say that it is convenient to use and easy to install. And also that it is suitable for those who want to save money on creating a website.&lt;/p&gt;
+&lt;p&gt;Benefits of OpenCart&lt;/p&gt;
+&lt;p&gt;Now let&amp;rsquo;s talk about why users like this platform:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; Developed community. As with WordPress, OpenCart has many live forums where extensions, beginner guides, and new themes are posted. And there you can always ask for advice from more experienced users if you encounter a problem.
+
+ Analytics system. It is built into OpenCart, but if its basic functions are not enough, you can expand them by connecting Google Analytics or Yandex.Metrica.
+
+ Good set of basic features. You can set up product filters, connect the desired payment system, add a subscription function, and much more.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;You can manage multiple sites from one admin panel.&lt;/p&gt;
+&lt;p&gt;Disadvantages of OpenCart&lt;/p&gt;
+&lt;p&gt;This CMS system is also not perfect. Here are a few cons that OpenCart users most often complain about:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; If you install too many plugins, the platform can run slowly and slow down your sites.
+
+ Not all extensions are safe. If you install third-party plugins, you run the risk of leaking data to intruders.
+
+ To &amp;quot;make friends&amp;quot; your online store with SEO, you will have to find and download the right extension. Without it, it will be difficult to promote the site in the search.
+
+ Sometimes new versions of OpenCart are incompatible with some website modules.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Joomla&lt;/p&gt;
+&lt;p&gt;Joomla is the second most popular CMS system, the functions of which make it universal in creating and managing websites. Unlike the same OpenCart, it is well suited for all categories of sites: from online stores to personal blogs. Mastering it is no more difficult than other CMS systems. But if you need a small site, it will be easier to work with the designers than with her. Joomla is chosen when they want to make a medium or large project. In them, she fully reveals her potential.&lt;/p&gt;
+&lt;p&gt;Advantages of Joomla&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s look at the advantages of Joomla, which, according to users, distinguish it from other CMS systems:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; Lots of basic features. And their list can be expanded even more if you install the necessary plugins.
+
+ The popularity of the platform among users. Those who often work with Joomla are constantly creating new useful content about it. For example, guides for beginners, life hacks and plugin collections.
+
+ Joomla functionality is not designed to create one specific type of project. This means that it is equally convenient to work on this platform when creating different sites: business cards, online stores, landing pages, etc.
+
+ Joomla developers often release fresh updates that fix version errors and add to the platform&#39;s feature set.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Disadvantages of Joomla&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s not forget to tell about some points that you may not like in working with this platform:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; Low level of security. Joomla site code is not so well protected. This means that it will be vulnerable to scammers who can take advantage of security holes.
+
+ Sometimes, after updating the CMS, some plugins may stop working. This is due to the incompatibility of their versions. Same problem as WordPress.
+
+ Despite the fact that Joomla is focused on large sites, they heavily load the server. Because of this, there are difficulties with access to the resource.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now that we have briefly reviewed 3 popular CMS systems, we can compare them with each other. For convenience, we have done this in the table below, where we have collected all the main criteria. They will help you evaluate the platforms and understand which one is best for you to create a project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing technical content in Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;h2 id=&#34;preliminaries&#34;&gt;Preliminaries&lt;/h2&gt;
+&lt;h3 id=&#34;markdown-basics&#34;&gt;Markdown basics&lt;/h3&gt;
+&lt;p&gt;To create a title, use the sign ( # ), for example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h1 id=&#34;this-is-heading-1&#34;&gt;This is heading 1&lt;/h1&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;this-is-heading-2&#34;&gt;This is heading 2&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;this-is-heading-3&#34;&gt;This is heading 3&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;this-is-heading-4&#34;&gt;This is heading 4&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To make text bold, enclose it in double asterisks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This text is &lt;strong&gt;bold&lt;/strong&gt;.
+To make text italic, enclose it in single asterisks:&lt;/li&gt;
+&lt;li&gt;This text is &lt;em&gt;italic&lt;/em&gt;.
+To make text bold and italic, enclose it in triple
+asterisks:&lt;/li&gt;
+&lt;li&gt;This is text is both &lt;em&gt;&lt;strong&gt;bold and italic&lt;/strong&gt;&lt;/em&gt;.
+Quote blocks are created using the &amp;gt; symbol:&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The drought had lasted now for ten million years, and the reign of
+the terrible lizards had long since ended. Here on the Equator, in
+the continent which would one day be known as Africa, the battle
+for existence had reached a new climax of ferocity, and the victor
+was not yet in sight. In this barren and desiccated land, only the
+small or the swift or the fierce could flourish, or even hope to
+survive.
+↪
+↪
+↪
+↪
+↪
+↪
+An unordered (bulleted) list can be formatted with an asterisk.
+daughter or dash:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;List item 1&lt;/li&gt;
+&lt;li&gt;List item 2&lt;/li&gt;
+&lt;li&gt;List item 3&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://example.com/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://example.com/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://example.com/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://example.com/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://example.com/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Command processors (shells)</title>
+      <link>https://example.com/post/shell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/shell/</guid>
+      <description>&lt;h1 id=&#34;theoretical-introduction&#34;&gt;Theoretical introduction&lt;/h1&gt;
+&lt;p&gt;A command processor (command shell, shell command interpreter) is a program that allows the user to interact with the computer&amp;rsquo;s operating system. On UNIX/Linux operating systems, the following shell implementations are most commonly used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bourne shell (sh) is a standard UNIX/Linux command shell containing a basic but complete set of functions;&lt;/li&gt;
+&lt;li&gt;C-shell (or csh) - an add-on to the Bourne shell that uses a C-like command syntax with the ability to save the history of command execution;&lt;/li&gt;
+&lt;li&gt;the Korn shell (or ksh) - resembles the C shell, but the program control statements are compatible with the Bourne shell statements;&lt;/li&gt;
+&lt;li&gt;BASH - short for Bourne Again Shell (Bourne shell again), basically combines the properties of C and Korn shells (developed by the Free Software Foundation).
+POSIX (Portable Operating System Interface for Computer Environments) is a set of standards for describing the interfaces between the operating system and application programs. The POSIX standards were developed by the IEEE (Institute of Electrical and Electronics Engineers) to ensure compatibility between different UNIX/Linux-like operating systems and portability of application programs at the source code level. POSIX-compliant shells are based on the Korn shell.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>https://example.com/post/spl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/spl/</guid>
+      <description>&lt;h1 id=&#34;theoretical-introduction&#34;&gt;Theoretical introduction&lt;/h1&gt;
+&lt;p&gt;Scientific programming languages are programming languages specially designed to solve problems in scientific fields such as mathematics, physics, chemistry, biology, and others.&lt;/p&gt;
+&lt;p&gt;One of the most common scientific programming languages is MATLAB, which is used for numerical calculations, data processing, and visualization of results. MATLAB has a rich library of functions and tools that allow you to solve various problems in the field of scientific research.&lt;/p&gt;
+&lt;p&gt;Another famous programming language for scientific purposes is R. It is used for statistical data analysis and machine learning. R has a powerful library of packages that allow researchers to perform various analyzes and create graphs.&lt;/p&gt;
+&lt;p&gt;Python has also become a popular programming language in scientific fields due to its simplicity and flexibility. It is widely used for scientific computing, image processing and data analysis.&lt;/p&gt;
+&lt;p&gt;Each of these programming languages has its advantages and disadvantages, and the choice of language depends on the specific task and needs of the researcher. However, they all provide tools for solving complex problems in scientific fields and continue to evolve and improve over time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vim editor</title>
+      <link>https://example.com/post/vim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/vim/</guid>
+      <description>&lt;h1 id=&#34;theoretical-introduction&#34;&gt;Theoretical introduction&lt;/h1&gt;
+&lt;h2 id=&#34;instructions-for-work&#34;&gt;Instructions for work&lt;/h2&gt;
+&lt;p&gt;Most Linux distributions install vi (Visual display editor) as the default text editor.
+The vi editor has three modes of operation:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;command mode - designed to enter commands for editing and navigating through the file being edited;&lt;/li&gt;
+&lt;li&gt;insert mode - designed to enter the content of the edited file;&lt;/li&gt;
+&lt;li&gt;last (or command) line mode - used to write changes to a file and exit the editor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To call the vi editor, you must specify the vi command and the name of the file being edited: vi &amp;lt;file_name&amp;gt;
+In this case, if there is no file with the specified name, such a file will be created.
+Switching to command mode is done by pressing the Esc key. To exit the vi editor, you need to switch to the last line mode: while in command mode, press Shift-; (essentially the character : is a colon), then:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;type wq characters if you want to write changes to the file before exiting the editor;&lt;/li&gt;
+&lt;li&gt;type q (or q!) if you want to exit the editor without saving.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Comment&lt;/strong&gt;. Remember that vi distinguishes between uppercase and lowercase letters when typing (perceiving) commands.&lt;/p&gt;
+&lt;h2 id=&#34;main-groups-of-editor-commands&#34;&gt;Main groups of editor commands&lt;/h2&gt;
+&lt;h3 id=&#34;position-commands&#34;&gt;Position commands&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;0 (zero) - go to the beginning of the line;&lt;/li&gt;
+&lt;li&gt;$ - go to the end of the line;&lt;/li&gt;
+&lt;li&gt;G - go to the end of the file;&lt;/li&gt;
+&lt;li&gt;n G — go to the line with number n.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;file-navigation-commands&#34;&gt;File navigation commands&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ctrl-d - go half a screen forward;&lt;/li&gt;
+&lt;li&gt;Ctrl-u - go half a screen back;&lt;/li&gt;
+&lt;li&gt;Ctrl-f - go to the page forward;&lt;/li&gt;
+&lt;li&gt;Ctrl-b - go back a page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;word-movement-commands1&#34;&gt;Word movement commands1&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;W or w - go one word forward;&lt;/li&gt;
+&lt;li&gt;n W or n w — go forward n words;&lt;/li&gt;
+&lt;li&gt;b or B - go back a word;&lt;/li&gt;
+&lt;li&gt;n b or n B - go back n words.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;edit-commands&#34;&gt;Edit commands&lt;/h2&gt;
+&lt;h3 id=&#34;insert-text&#34;&gt;Insert text&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;a - insert text after the cursor;&lt;/li&gt;
+&lt;li&gt;A - insert text at the end of the line;&lt;/li&gt;
+&lt;li&gt;i - insert text before the cursor;&lt;/li&gt;
+&lt;li&gt;n i - insert text n times;&lt;/li&gt;
+&lt;li&gt;I - insert text at the beginning of the line.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;insert-a-line&#34;&gt;Insert a line&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;o - insert a line under the cursor;&lt;/li&gt;
+&lt;li&gt;O - insert a line above the cursor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;delete-text&#34;&gt;Delete text&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;x - delete one character in the buffer;&lt;/li&gt;
+&lt;li&gt;d w - delete one word in the buffer;&lt;/li&gt;
+&lt;li&gt;d $ - delete text from the cursor to the end of the line into the buffer;&lt;/li&gt;
+&lt;li&gt;d 0 - delete text from the beginning of the line to the cursor position into the buffer;&lt;/li&gt;
+&lt;li&gt;d d - delete one line into the buffer;&lt;/li&gt;
+&lt;li&gt;n d d — delete n lines into the buffer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cancel-and-redo-changes-made&#34;&gt;Cancel and redo changes made&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;u - undo the last change;&lt;/li&gt;
+&lt;li&gt;. - redo last change.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;copy-text-to-clipboard&#34;&gt;Copy text to clipboard&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Y - copy the string to the clipboard;&lt;/li&gt;
+&lt;li&gt;n Y — copy n lines to the buffer;&lt;/li&gt;
+&lt;li&gt;y w - copy the word to the clipboard.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;paste-text-from-clipboard&#34;&gt;Paste text from clipboard&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;p - paste text from the buffer after the cursor;&lt;/li&gt;
+&lt;li&gt;P - paste text from the buffer before the cursor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;replace-text&#34;&gt;Replace text&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;c w - replace the word;&lt;/li&gt;
+&lt;li&gt;n c w - replace n words;&lt;/li&gt;
+&lt;li&gt;c $ - replace the text from the cursor to the end of the line;&lt;/li&gt;
+&lt;li&gt;r - replace the word;&lt;/li&gt;
+&lt;li&gt;R - replace text.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;search-text&#34;&gt;Search text&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;/ text - search forward in the text of the specified string of characters text;&lt;/li&gt;
+&lt;li&gt;? text - search backwards through the text of the specified character string text.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;edit-commands-in-command-line-mode&#34;&gt;Edit commands in command line mode&lt;/h2&gt;
+&lt;h3 id=&#34;copy-and-move-text&#34;&gt;Copy and move text&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;: n,m d — delete lines from n to m;&lt;/li&gt;
+&lt;li&gt;: i,j m k — move rows i through j, starting from row k;&lt;/li&gt;
+&lt;li&gt;: i,j t k — copy lines from i to j into line k;&lt;/li&gt;
+&lt;li&gt;: i,j w filename - write lines i through j to a file named filename.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;write-to-file-and-exit-editor&#34;&gt;Write to file and exit editor&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;: w - write the changed text to a file without leaving vi;&lt;/li&gt;
+&lt;li&gt;: w filename - write the changed text to a new file named filename;&lt;/li&gt;
+&lt;li&gt;:w! filename - write the changed text to a file named filename;&lt;/li&gt;
+&lt;li&gt;: w q - write changes to file and exit vi;&lt;/li&gt;
+&lt;li&gt;: q - exit the vi editor;&lt;/li&gt;
+&lt;li&gt;: q ! — exit the editor without writing;&lt;/li&gt;
+&lt;li&gt;:e! - return to command mode, canceling all changes made
+since the last entry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;options&#34;&gt;Options&lt;/h2&gt;
+&lt;p&gt;The vi editor options allow you to customize your working environment. To set options, use the set command (in last line mode):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;lt;:&amp;gt; set all - display the full list of options;&lt;/li&gt;
+&lt;li&gt;&amp;lt;:&amp;gt; set nu - display line numbers;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;:&lt;/code&gt; set list - display invisible characters;&lt;/li&gt;
+&lt;li&gt;&lt;kbd&gt;:&lt;/kbd&gt; set ic - do not take into account when searching whether the character is uppercase or lowercase.
+If you don&amp;rsquo;t want to use an option, you must prefix the option name with no in the set command.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

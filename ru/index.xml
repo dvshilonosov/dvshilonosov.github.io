@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chinese website title...</title>
-    <link>https://dvshilonosov.com/ru/</link>
-      <atom:link href="https://dvshilonosov.com/ru/index.xml" rel="self" type="application/rss+xml" />
-    <description>Chinese website title...</description>
+    <title>dvshilonosov</title>
+    <link>https://example.com/ru/</link>
+      <atom:link href="https://example.com/ru/index.xml" rel="self" type="application/rss+xml" />
+    <description>dvshilonosov</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dvshilonosov.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Chinese website title...</title>
-      <link>https://dvshilonosov.com/ru/</link>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>dvshilonosov</title>
+      <link>https://example.com/ru/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://dvshilonosov.com/ru/talk/example-talk/</link>
+      <link>https://example.com/ru/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/talk/example-talk/</guid>
+      <guid>https://example.com/ru/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -33,10 +33,10 @@
     </item>
     
     <item>
-      <title>Website creation</title>
-      <link>https://dvshilonosov.com/ru/project/example/</link>
+      <title>Создание сайта</title>
+      <link>https://example.com/ru/project/example/</link>
       <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/project/example/</guid>
+      <guid>https://example.com/ru/project/example/</guid>
       <description>&lt;p&gt;Как сделать сайт самому: все способы&lt;/p&gt;
 &lt;p&gt;Тем, кто хочет разработать сайт, сегодня можно выбрать любой из 3 вариантов:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;написать проект с нуля на HTML, CSS и Javascript;
@@ -88,9 +88,8 @@ OpenCart&lt;/p&gt;
 Система аналитики. Она встроена в OpenCart, но если её базовых функций будет недостаточно, можно расширить их, подключив Google Analytics или Яндекс.Метрику.
 
 Хороший набор базовых функций. Можно настроить фильтры товаров, подключить нужную систему оплаты, добавить функцию подписки и многое другое.
-
-Можно управлять несколькими сайтами из одной админки.
 &lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Можно управлять несколькими сайтами из одной админки.&lt;/p&gt;
 &lt;p&gt;Недостатки OpenCart&lt;/p&gt;
 &lt;p&gt;Эта CMS-система тоже не идеальна. Вот несколько минусов, на которые чаще всего жалуются пользователи OpenCart:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;Если установить слишком много плагинов, платформа может работать медленно и тормозить работу ваших сайтов.
@@ -126,11 +125,12 @@ OpenCart&lt;/p&gt;
     </item>
     
     <item>
-      <title>Writing technical content in Markdown</title>
-      <link>https://dvshilonosov.com/ru/post/markdown/</link>
+      <title>Написание технического контента в Markdown</title>
+      <link>https://example.com/ru/post/markdown/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/post/markdown/</guid>
-      <description>&lt;h2 id=&#34;предварительные-сведения&#34;&gt;Предварительные сведения&lt;/h2&gt;
+      <guid>https://example.com/ru/post/markdown/</guid>
+      <description>&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
+&lt;h2 id=&#34;предварительные-сведения&#34;&gt;Предварительные сведения&lt;/h2&gt;
 &lt;h3 id=&#34;базовые-сведения-о-markdown&#34;&gt;Базовые сведения о Markdown&lt;/h3&gt;
 &lt;p&gt;Чтобы создать заголовок, используйте знак ( # ), например:
 1 # This is heading 1
@@ -168,9 +168,9 @@ survive.
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://dvshilonosov.com/ru/publication/preprint/</link>
+      <link>https://example.com/ru/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/publication/preprint/</guid>
+      <guid>https://example.com/ru/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -182,9 +182,9 @@ survive.
     
     <item>
       <title>Slides</title>
-      <link>https://dvshilonosov.com/ru/slides/example/</link>
+      <link>https://example.com/ru/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/slides/example/</guid>
+      <guid>https://example.com/ru/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -306,18 +306,18 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://dvshilonosov.com/ru/project/external-project/</link>
+      <title>Внешний проект</title>
+      <link>https://example.com/ru/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/project/external-project/</guid>
+      <guid>https://example.com/ru/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>https://dvshilonosov.com/ru/publication/journal-article/</link>
+      <link>https://example.com/ru/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/publication/journal-article/</guid>
+      <guid>https://example.com/ru/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -334,9 +334,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://dvshilonosov.com/ru/publication/conference-paper/</link>
+      <link>https://example.com/ru/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/publication/conference-paper/</guid>
+      <guid>https://example.com/ru/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -353,50 +353,18 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://dvshilonosov.com/ru/admin/config.yml</link>
+      <link>https://example.com/ru/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/admin/config.yml</guid>
+      <guid>https://example.com/ru/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title>Командные процессоры (оболочки)</title>
-      <link>https://dvshilonosov.com/ru/post/shell/</link>
+      <link>https://example.com/ru/post/shell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/post/shell/</guid>
-      <description>&lt;h1 id=&#34;summary-for-listings-and-search-engines&#34;&gt;Summary for listings and search engines&lt;/h1&gt;
-&lt;p&gt;summary: Добро пожаловать 👋 Здесь Вы узнаете, как пользоваться мощным текстовым редактором vim.&lt;/p&gt;
-&lt;h1 id=&#34;link-this-post-with-a-project&#34;&gt;Link this post with a project&lt;/h1&gt;
-&lt;p&gt;projects: []&lt;/p&gt;
-&lt;h1 id=&#34;date-published&#34;&gt;Date published&lt;/h1&gt;
-&lt;p&gt;date: &amp;lsquo;2020-12-14T00:00:00Z&amp;rsquo;&lt;/p&gt;
-&lt;h1 id=&#34;date-updated&#34;&gt;Date updated&lt;/h1&gt;
-&lt;p&gt;lastmod: &amp;lsquo;2020-12-14T00:00:00Z&amp;rsquo;&lt;/p&gt;
-&lt;h1 id=&#34;is-this-an-unpublished-draft&#34;&gt;Is this an unpublished draft?&lt;/h1&gt;
-&lt;p&gt;draft: false&lt;/p&gt;
-&lt;h1 id=&#34;show-this-page-in-the-featured-widget&#34;&gt;Show this page in the Featured widget?&lt;/h1&gt;
-&lt;p&gt;featured: false&lt;/p&gt;
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-&lt;h1 id=&#34;place-an-image-named-featuredjpgpng-in-this-pages-folder-and-customize-its-options-here&#34;&gt;Place an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; in this page&amp;rsquo;s folder and customize its options here.&lt;/h1&gt;
-&lt;p&gt;image:
-caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://cdn.iconscout.com/icon/free/png-256/markdown-2-458334.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Unknown&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;
-focal_point: &amp;rsquo;&#39;
-placement: 2
-preview_only: false&lt;/p&gt;
-&lt;p&gt;authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;admin&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Academic&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Demo&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
+      <guid>https://example.com/ru/post/shell/</guid>
+      <description>&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
 &lt;p&gt;Командный процессор (командная оболочка, интерпретатор команд shell) — это программа, позволяющая пользователю взаимодействовать с операционной системой компьютера. В операционных системах типа UNIX/Linux наиболее часто используются следующие реализации командных оболочек:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;оболочка Борна (Bourne shell или sh) — стандартная командная оболочка UNIX/Linux, содержащая базовый, но при этом полный набор функций;&lt;/li&gt;
@@ -410,42 +378,10 @@ POSIX (Portable Operating System Interface for Computer Environments) — наб
     
     <item>
       <title>Научные языки программирования</title>
-      <link>https://dvshilonosov.com/ru/post/spl/</link>
+      <link>https://example.com/ru/post/spl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/post/spl/</guid>
-      <description>&lt;h1 id=&#34;summary-for-listings-and-search-engines&#34;&gt;Summary for listings and search engines&lt;/h1&gt;
-&lt;p&gt;summary: Добро пожаловать 👋 Здесь Вы узнаете о научных языках программирования.&lt;/p&gt;
-&lt;h1 id=&#34;link-this-post-with-a-project&#34;&gt;Link this post with a project&lt;/h1&gt;
-&lt;p&gt;projects: []&lt;/p&gt;
-&lt;h1 id=&#34;date-published&#34;&gt;Date published&lt;/h1&gt;
-&lt;p&gt;date: &amp;lsquo;2020-12-13T00:00:00Z&amp;rsquo;&lt;/p&gt;
-&lt;h1 id=&#34;date-updated&#34;&gt;Date updated&lt;/h1&gt;
-&lt;p&gt;lastmod: &amp;lsquo;2020-12-13T00:00:00Z&amp;rsquo;&lt;/p&gt;
-&lt;h1 id=&#34;is-this-an-unpublished-draft&#34;&gt;Is this an unpublished draft?&lt;/h1&gt;
-&lt;p&gt;draft: false&lt;/p&gt;
-&lt;h1 id=&#34;show-this-page-in-the-featured-widget&#34;&gt;Show this page in the Featured widget?&lt;/h1&gt;
-&lt;p&gt;featured: false&lt;/p&gt;
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-&lt;h1 id=&#34;place-an-image-named-featuredjpgpng-in-this-pages-folder-and-customize-its-options-here&#34;&gt;Place an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; in this page&amp;rsquo;s folder and customize its options here.&lt;/h1&gt;
-&lt;p&gt;image:
-caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://www.google.com/url?sa=i&amp;amp;url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ficonic-brands%2Fmatlab-logo&amp;amp;psig=AOvVaw1-zySYPFOyqPm1rourviz6&amp;amp;ust=1682876776668000&amp;amp;source=images&amp;amp;cd=vfe&amp;amp;ved=0CA4QjRxqFwoTCLCVgNbSz_4CFQAAAAAdAAAAABAE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Unknown&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;
-focal_point: &amp;rsquo;&#39;
-placement: 2
-preview_only: false&lt;/p&gt;
-&lt;p&gt;authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;admin&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Academic&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Demo&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
+      <guid>https://example.com/ru/post/spl/</guid>
+      <description>&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
 &lt;p&gt;Научные языки программирования - это языки программирования, специально созданные для решения задач в научных областях, таких как математика, физика, химия, биология и другие.&lt;/p&gt;
 &lt;p&gt;Один из наиболее распространенных научных языков программирования - это MATLAB, который используется для численных расчетов, обработки данных и визуализации результатов. MATLAB имеет богатую библиотеку функций и инструментов, позволяющих решать различные задачи в области научных исследований.&lt;/p&gt;
 &lt;p&gt;Еще одним известным языком программирования для научных целей является R. Он используется для статистического анализа данных и машинного обучения. R имеет мощную библиотеку пакетов, которые позволяют исследователям проводить различные анализы и создавать графики.&lt;/p&gt;
@@ -456,42 +392,10 @@ preview_only: false&lt;/p&gt;
     
     <item>
       <title>Редактор vim</title>
-      <link>https://dvshilonosov.com/ru/post/vim/</link>
+      <link>https://example.com/ru/post/vim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dvshilonosov.com/ru/post/vim/</guid>
-      <description>&lt;h1 id=&#34;summary-for-listings-and-search-engines&#34;&gt;Summary for listings and search engines&lt;/h1&gt;
-&lt;p&gt;summary: Добро пожаловать 👋 Здесь Вы узнаете, как пользоваться мощным текстовым редактором vim.&lt;/p&gt;
-&lt;h1 id=&#34;link-this-post-with-a-project&#34;&gt;Link this post with a project&lt;/h1&gt;
-&lt;p&gt;projects: []&lt;/p&gt;
-&lt;h1 id=&#34;date-published&#34;&gt;Date published&lt;/h1&gt;
-&lt;p&gt;date: &amp;lsquo;2020-12-13T00:00:00Z&amp;rsquo;&lt;/p&gt;
-&lt;h1 id=&#34;date-updated&#34;&gt;Date updated&lt;/h1&gt;
-&lt;p&gt;lastmod: &amp;lsquo;2020-12-13T00:00:00Z&amp;rsquo;&lt;/p&gt;
-&lt;h1 id=&#34;is-this-an-unpublished-draft&#34;&gt;Is this an unpublished draft?&lt;/h1&gt;
-&lt;p&gt;draft: false&lt;/p&gt;
-&lt;h1 id=&#34;show-this-page-in-the-featured-widget&#34;&gt;Show this page in the Featured widget?&lt;/h1&gt;
-&lt;p&gt;featured: false&lt;/p&gt;
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-&lt;h1 id=&#34;place-an-image-named-featuredjpgpng-in-this-pages-folder-and-customize-its-options-here&#34;&gt;Place an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; in this page&amp;rsquo;s folder and customize its options here.&lt;/h1&gt;
-&lt;p&gt;image:
-caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://guinuxbr.com/img/vim-cheat-sheet/vim-logo.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Unknown&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;
-focal_point: &amp;rsquo;&#39;
-placement: 2
-preview_only: false&lt;/p&gt;
-&lt;p&gt;authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;admin&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Academic&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Demo&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
+      <guid>https://example.com/ru/post/vim/</guid>
+      <description>&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
 &lt;h2 id=&#34;указания-к-работе&#34;&gt;Указания к работе&lt;/h2&gt;
 &lt;p&gt;В большинстве дистрибутивов Linux в качестве текстового редактора по умолчанию устанавливается интерактивный экранный редактор vi (Visual display editor).
 Редактор vi имеет три режима работы:&lt;/p&gt;
