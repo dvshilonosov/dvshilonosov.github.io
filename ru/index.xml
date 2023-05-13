@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chinese website title...</title>
+    <link>https://dvshilonosov.com/ru/</link>
+      <atom:link href="https://dvshilonosov.com/ru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chinese website title...</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dvshilonosov.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Chinese website title...</title>
+      <link>https://dvshilonosov.com/ru/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://dvshilonosov.com/ru/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://dvshilonosov.com/ru/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Website creation</title>
+      <link>https://dvshilonosov.com/ru/project/example/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://dvshilonosov.com/ru/project/example/</guid>
+      <description>&lt;p&gt;Как сделать сайт самому: все способы&lt;/p&gt;
+&lt;p&gt;Тем, кто хочет разработать сайт, сегодня можно выбрать любой из 3 вариантов:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;написать проект с нуля на HTML, CSS и Javascript;
+
+собрать его на конструкторе сайтов;
+
+запустить через CMS-систему.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Первый вариант создания сайтов — самый трудоёмкий из всех. Чтобы от и до рассказать обо всех этапах и процессах в нём, не хватит даже одной длинной статьи. А потому поговорим об этом способе в следующий раз. Но если лёгкие пути не для вас, начните изучать эти языки на курсе по созданию сайтов в Skysmart. Там мы расскажем об особенностях каждого из них, научим кодить и познакомим с азами веб-дизайна.&lt;/p&gt;
+&lt;p&gt;А в этой статье мы разберём последние два способа: конструкторы сайтов и CMS-системы.
+Что такое CMS-системы и как создавать на них сайты&lt;/p&gt;
+&lt;p&gt;Сначала разберёмся, что кроется за этой аббревиатурой — CMS.&lt;/p&gt;
+&lt;p&gt;CMS-система — это система управления содержимым; специальная программа с большим набором функций, которая позволяет создавать, редактировать и управлять контентом на сайте.&lt;/p&gt;
+&lt;p&gt;Если проще, то CMS — это своеобразный движок для интернет-ресурсов, с помощью которого можно их настраивать. Теперь давайте кратко разберём несколько популярных CMS-систем и сравним их между собой.
+WordPress&lt;/p&gt;
+&lt;p&gt;WordPress — это одна из самых востребованных CMS-платформ. В ней есть много готовых шаблонов, а ещё создать блог, сайт-визитку и другие проекты на базе этой платформы можно бесплатно. И всё это — без знания кода! Самое то, чтобы самостоятельно сделать свой первый сайт.&lt;/p&gt;
+&lt;p&gt;А если ещё настроить плагины и добавить к этому навыки работы с языком программирования PHP, можно увеличить возможности Wordpress за пределы её базовых.&lt;/p&gt;
+&lt;p&gt;Преимущества WordPress&lt;/p&gt;
+&lt;p&gt;Чтобы понять, почему эта CMS-система так популярна, давайте разберём некоторые её достоинства.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Создать сайт на платформе можно бесплатно. Заплатить придётся только за доменное имя и хостинг. Причём и то, и другое тоже можно найти в бесплатном варианте за счёт пробных периодов и т. д.
+
+Просто установить программу. Настроить WordPress для работы можно за несколько щелчков мышкой.
+
+Автообновление. Когда выйдет более свежая версия CMS, она установится автоматически.
+
+Интуитивная работа. У WordPress понятный интерфейс: одного взгляда на кнопку достаточно, чтобы понять, для чего она нужна.
+
+Много шаблонов. На платформе можно найти кучу готовых решений для сайтов разных форматов: онлайн-блогов, информационных ресурсов и т. д. Это облегчает новичку создание сайтов на WordPress.
+
+Платформа автоматически адаптирует сайт под разные устройства. Это позволяет вашим проектам оставаться актуальными для людей, которые посещают их со смартфонов, ПК, ноутбуков и планшетов.
+
+«Живое» сообщество. Если у вас возникнут проблемы во время работы над сайтом, всегда можно найти ответ на любой вопрос на форуме. А если не получилось, просто задайте его и вам обязательно ответят.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Недостатки WordPress&lt;/p&gt;
+&lt;p&gt;Как бы ни была хороша эта платформа, у нее есть и минусы. Давайте разберём несколько из них. Это поможет избежать неприятных сюрпризов, если вы захотите когда-нибудь поработать на ней.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Многие плагины делают сторонние разработчики. Это значит, что они могут оказаться несовместимыми с официальными обновлениями WordPress. А ещё в них бывают ошибки, которые могут «сломать» ваш дизайн, и даже вирусы.
+
+Безопасность. WordPress — программа с открытым кодом. А значит, мошенникам проще найти в ней слабые места, чтобы использовать ваш проект в своих целях.
+
+Нет технической поддержки от разработчиков. Если вы столкнётесь с проблемой, можно не ждать, что вы напишете одно письмо и за вас все решат. С другой стороны, мы уже писали выше про развитое сообщество WordPress, к которому можно прийти за советом.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Мы кратко рассказали о WordPress, но не думайте, что на этом наше знакомство с этой CMS закончилось. Во второй части статьи мы ещё вернемся к ней, чтобы разобраться, как она работает и как создать на ней свой первый сайт с нуля.
+OpenCart&lt;/p&gt;
+&lt;p&gt;OpenCart — это условно-бесплатная CMS-система, популярная в России. Главным образом она хорошо подходит для разработки интернет-магазинов. Например, в РФ на базе этой платформы собрано больше 30% e-commerce-проектов. Те, кто уже пользовался OpenCart, говорят, что ей удобно пользоваться и легко устанавливать. А ещё, что она подходит тем, кто хочет сэкономить на создании сайта.&lt;/p&gt;
+&lt;p&gt;Преимущества OpenCart&lt;/p&gt;
+&lt;p&gt;Теперь поговорим о том, почему эта платформа нравится пользователям:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Развитое сообщество. Как и в случае в WordPress, у OpenCart есть много «живых» форумов, где публикуют расширения, гайды для новичков и новые темы. А ещё там всегда можно попросить совета у более опытных пользователей, если вы столкнулись с проблемой.
+
+Система аналитики. Она встроена в OpenCart, но если её базовых функций будет недостаточно, можно расширить их, подключив Google Analytics или Яндекс.Метрику.
+
+Хороший набор базовых функций. Можно настроить фильтры товаров, подключить нужную систему оплаты, добавить функцию подписки и многое другое.
+
+Можно управлять несколькими сайтами из одной админки.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Недостатки OpenCart&lt;/p&gt;
+&lt;p&gt;Эта CMS-система тоже не идеальна. Вот несколько минусов, на которые чаще всего жалуются пользователи OpenCart:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Если установить слишком много плагинов, платформа может работать медленно и тормозить работу ваших сайтов.
+
+Не все расширения безопасны. Если вы будете устанавливать плагины сторонних разработчиков, то рискуете слить данные злоумышленникам.
+
+Чтобы «подружить» ваш интернет-магазин с SEO, придётся найти и загрузить нужное расширение. Без него продвинуть сайт в поиске будет сложно.
+
+Иногда новые версии OpenCart бывают несовместимы с некоторыми модулями сайта.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Joomla&lt;/p&gt;
+&lt;p&gt;Joomla — это вторая по популярности CMS-система, функции которой делают её универсальной в создании и управлении сайтами. В отличие от той же OpenCart, она хорошо подходит для всех категорий сайтов: от интернет-магазинов до личных блогов. Освоить её не сложнее, чем другую CMS-систему. Но если вам нужен небольшой сайт, проще будет поработать с конструкторами, чем с ней. Joomla выбирают, когда хотят сделать средний или крупный проект. В них она полностью раскрывает свой потенциал.&lt;/p&gt;
+&lt;p&gt;Достоинства Joomla&lt;/p&gt;
+&lt;p&gt;Давайте же рассмотрим преимущества Joomla, которые, по мнению пользователей, выделяют её на фоне других CMS-систем:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Много базовых функций. И их список можно расширить ещё больше, если установить нужные плагины.
+
+Популярность платформы среди пользователей. Те, кто часто работает с Joomla, постоянно создают новый полезный контент о ней. Например, гайды для новичков, лайфхаки и подборки плагинов.
+
+Функционал Joomla не заточен под создание одного конкретного вида проектов. А значит, на этой платформе одинаково удобно работать при создании разных сайтов: визиток, интернет-магазинов, лендингов и т. д.
+
+Разработчики Joomla часто выпускают свежие обновления, которые исправляют ошибки версий и пополняют набор функций платформы.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Недостатки Joomla&lt;/p&gt;
+&lt;p&gt;Не забудем рассказать и о некоторых моментах, которые могут вам не понравиться в работе с этой платформой:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Невысокий уровень безопасности. Код сайтов на Joomla не так хорошо защищён. А значит, он будет уязвим для мошенников, которые могут воспользоваться «дырами» в безопасности.
+
+Иногда после обновления CMS часть плагинов может перестать работать. Это связано с несовместимостью их версий. Та же проблема, что и у WordPress.
+
+Несмотря на то, что Joomla ориентируется на крупные сайты, они сильно нагружают сервер. Из-за этого бывают сложности с доступом к ресурсу.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Теперь, когда мы кратко разобрали 3 популярные CMS-системы, можем сравнить их между собой. Для удобства мы сделали это в таблице ниже, где собрали все основные критерии. Они помогут вам оценить платформы и понять, какая из них больше всего подходит вам для создания проекта.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing technical content in Markdown</title>
+      <link>https://dvshilonosov.com/ru/post/markdown/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://dvshilonosov.com/ru/post/markdown/</guid>
+      <description>&lt;h2 id=&#34;предварительные-сведения&#34;&gt;Предварительные сведения&lt;/h2&gt;
+&lt;h3 id=&#34;базовые-сведения-о-markdown&#34;&gt;Базовые сведения о Markdown&lt;/h3&gt;
+&lt;p&gt;Чтобы создать заголовок, используйте знак ( # ), например:
+1 # This is heading 1
+2 ## This is heading 2
+3 ### This is heading 3
+4 #### This is heading 4
+Чтобы задать для текста полужирное начертание, заключите его в двойные звездочки:
+1 This text is &lt;strong&gt;bold&lt;/strong&gt;.
+Чтобы задать для текста курсивное начертание, заключите его в одинарные звездочки:
+1 This text is &lt;em&gt;italic&lt;/em&gt;.
+Чтобы задать для текста полужирное и курсивное начертание, заключите его в тройные
+звездочки:
+1 This is text is both &lt;em&gt;&lt;strong&gt;bold and italic&lt;/strong&gt;&lt;/em&gt;.
+Блоки цитирования создаются с помощью символа &amp;gt;:
+1 &amp;gt; The drought had lasted now for ten million years, and the reign of
+the terrible lizards had long since ended. Here on the Equator, in
+the continent which would one day be known as Africa, the battle
+for existence had reached a new climax of ferocity, and the victor
+was not yet in sight. In this barren and desiccated land, only the
+small or the swift or the fierce could flourish, or even hope to
+survive.
+↪
+↪
+↪
+↪
+↪
+↪
+Неупорядоченный (маркированный) список можно отформатировать с помощью звез-
+дочек или тире:
+1 - List item 1
+2 - List item 2
+3 - List item 3&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://dvshilonosov.com/ru/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://dvshilonosov.com/ru/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://dvshilonosov.com/ru/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://dvshilonosov.com/ru/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://dvshilonosov.com/ru/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://dvshilonosov.com/ru/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://dvshilonosov.com/ru/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://dvshilonosov.com/ru/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://dvshilonosov.com/ru/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://dvshilonosov.com/ru/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dvshilonosov.com/ru/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dvshilonosov.com/ru/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Командные процессоры (оболочки)</title>
+      <link>https://dvshilonosov.com/ru/post/shell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dvshilonosov.com/ru/post/shell/</guid>
+      <description>&lt;h1 id=&#34;summary-for-listings-and-search-engines&#34;&gt;Summary for listings and search engines&lt;/h1&gt;
+&lt;p&gt;summary: Добро пожаловать 👋 Здесь Вы узнаете, как пользоваться мощным текстовым редактором vim.&lt;/p&gt;
+&lt;h1 id=&#34;link-this-post-with-a-project&#34;&gt;Link this post with a project&lt;/h1&gt;
+&lt;p&gt;projects: []&lt;/p&gt;
+&lt;h1 id=&#34;date-published&#34;&gt;Date published&lt;/h1&gt;
+&lt;p&gt;date: &amp;lsquo;2020-12-14T00:00:00Z&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;date-updated&#34;&gt;Date updated&lt;/h1&gt;
+&lt;p&gt;lastmod: &amp;lsquo;2020-12-14T00:00:00Z&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;is-this-an-unpublished-draft&#34;&gt;Is this an unpublished draft?&lt;/h1&gt;
+&lt;p&gt;draft: false&lt;/p&gt;
+&lt;h1 id=&#34;show-this-page-in-the-featured-widget&#34;&gt;Show this page in the Featured widget?&lt;/h1&gt;
+&lt;p&gt;featured: false&lt;/p&gt;
+&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
+&lt;h1 id=&#34;place-an-image-named-featuredjpgpng-in-this-pages-folder-and-customize-its-options-here&#34;&gt;Place an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; in this page&amp;rsquo;s folder and customize its options here.&lt;/h1&gt;
+&lt;p&gt;image:
+caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://cdn.iconscout.com/icon/free/png-256/markdown-2-458334.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Unknown&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;
+focal_point: &amp;rsquo;&#39;
+placement: 2
+preview_only: false&lt;/p&gt;
+&lt;p&gt;authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;admin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Academic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;categories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Demo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
+&lt;p&gt;Командный процессор (командная оболочка, интерпретатор команд shell) — это программа, позволяющая пользователю взаимодействовать с операционной системой компьютера. В операционных системах типа UNIX/Linux наиболее часто используются следующие реализации командных оболочек:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;оболочка Борна (Bourne shell или sh) — стандартная командная оболочка UNIX/Linux, содержащая базовый, но при этом полный набор функций;&lt;/li&gt;
+&lt;li&gt;С-оболочка (или csh) — надстройка на оболочкой Борна, использующая С-подобный синтаксис команд с возможностью сохранения истории выполнения команд;&lt;/li&gt;
+&lt;li&gt;оболочка Корна (или ksh) — напоминает оболочку С, но операторы управления программой совместимы с операторами оболочки Борна;&lt;/li&gt;
+&lt;li&gt;BASH — сокращение от Bourne Again Shell (опять оболочка Борна), в основе своей совмещает свойства оболочек С и Корна (разработка компании Free Software Foundation).
+POSIX (Portable Operating System Interface for Computer Environments) — набор стандартов описания интерфейсов взаимодействия операционной системы и прикладных программ. Стандарты POSIX разработаны комитетом IEEE (Institute of Electrical and Electronics Engineers) для обеспечения совместимости различных UNIX/Linux-подобных операционных систем и переносимости прикладных программ на уровне исходного кода. POSIX-совместимые оболочки разработаны на базе оболочки Корна.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Научные языки программирования</title>
+      <link>https://dvshilonosov.com/ru/post/spl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dvshilonosov.com/ru/post/spl/</guid>
+      <description>&lt;h1 id=&#34;summary-for-listings-and-search-engines&#34;&gt;Summary for listings and search engines&lt;/h1&gt;
+&lt;p&gt;summary: Добро пожаловать 👋 Здесь Вы узнаете о научных языках программирования.&lt;/p&gt;
+&lt;h1 id=&#34;link-this-post-with-a-project&#34;&gt;Link this post with a project&lt;/h1&gt;
+&lt;p&gt;projects: []&lt;/p&gt;
+&lt;h1 id=&#34;date-published&#34;&gt;Date published&lt;/h1&gt;
+&lt;p&gt;date: &amp;lsquo;2020-12-13T00:00:00Z&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;date-updated&#34;&gt;Date updated&lt;/h1&gt;
+&lt;p&gt;lastmod: &amp;lsquo;2020-12-13T00:00:00Z&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;is-this-an-unpublished-draft&#34;&gt;Is this an unpublished draft?&lt;/h1&gt;
+&lt;p&gt;draft: false&lt;/p&gt;
+&lt;h1 id=&#34;show-this-page-in-the-featured-widget&#34;&gt;Show this page in the Featured widget?&lt;/h1&gt;
+&lt;p&gt;featured: false&lt;/p&gt;
+&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
+&lt;h1 id=&#34;place-an-image-named-featuredjpgpng-in-this-pages-folder-and-customize-its-options-here&#34;&gt;Place an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; in this page&amp;rsquo;s folder and customize its options here.&lt;/h1&gt;
+&lt;p&gt;image:
+caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://www.google.com/url?sa=i&amp;amp;url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ficonic-brands%2Fmatlab-logo&amp;amp;psig=AOvVaw1-zySYPFOyqPm1rourviz6&amp;amp;ust=1682876776668000&amp;amp;source=images&amp;amp;cd=vfe&amp;amp;ved=0CA4QjRxqFwoTCLCVgNbSz_4CFQAAAAAdAAAAABAE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Unknown&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;
+focal_point: &amp;rsquo;&#39;
+placement: 2
+preview_only: false&lt;/p&gt;
+&lt;p&gt;authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;admin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Academic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;categories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Demo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
+&lt;p&gt;Научные языки программирования - это языки программирования, специально созданные для решения задач в научных областях, таких как математика, физика, химия, биология и другие.&lt;/p&gt;
+&lt;p&gt;Один из наиболее распространенных научных языков программирования - это MATLAB, который используется для численных расчетов, обработки данных и визуализации результатов. MATLAB имеет богатую библиотеку функций и инструментов, позволяющих решать различные задачи в области научных исследований.&lt;/p&gt;
+&lt;p&gt;Еще одним известным языком программирования для научных целей является R. Он используется для статистического анализа данных и машинного обучения. R имеет мощную библиотеку пакетов, которые позволяют исследователям проводить различные анализы и создавать графики.&lt;/p&gt;
+&lt;p&gt;Python также стал популярным языком программирования в научных областях, благодаря своей простоте и гибкости. Он широко используется для научных вычислений, обработки изображений и анализа данных.&lt;/p&gt;
+&lt;p&gt;Каждый из этих языков программирования имеет свои преимущества и недостатки, и выбор языка зависит от конкретной задачи и потребностей исследователя. Однако все они предоставляют инструменты для решения сложных задач в научных областях и продолжают развиваться и улучшаться с течением времени.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Редактор vim</title>
+      <link>https://dvshilonosov.com/ru/post/vim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dvshilonosov.com/ru/post/vim/</guid>
+      <description>&lt;h1 id=&#34;summary-for-listings-and-search-engines&#34;&gt;Summary for listings and search engines&lt;/h1&gt;
+&lt;p&gt;summary: Добро пожаловать 👋 Здесь Вы узнаете, как пользоваться мощным текстовым редактором vim.&lt;/p&gt;
+&lt;h1 id=&#34;link-this-post-with-a-project&#34;&gt;Link this post with a project&lt;/h1&gt;
+&lt;p&gt;projects: []&lt;/p&gt;
+&lt;h1 id=&#34;date-published&#34;&gt;Date published&lt;/h1&gt;
+&lt;p&gt;date: &amp;lsquo;2020-12-13T00:00:00Z&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;date-updated&#34;&gt;Date updated&lt;/h1&gt;
+&lt;p&gt;lastmod: &amp;lsquo;2020-12-13T00:00:00Z&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;is-this-an-unpublished-draft&#34;&gt;Is this an unpublished draft?&lt;/h1&gt;
+&lt;p&gt;draft: false&lt;/p&gt;
+&lt;h1 id=&#34;show-this-page-in-the-featured-widget&#34;&gt;Show this page in the Featured widget?&lt;/h1&gt;
+&lt;p&gt;featured: false&lt;/p&gt;
+&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
+&lt;h1 id=&#34;place-an-image-named-featuredjpgpng-in-this-pages-folder-and-customize-its-options-here&#34;&gt;Place an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; in this page&amp;rsquo;s folder and customize its options here.&lt;/h1&gt;
+&lt;p&gt;image:
+caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://guinuxbr.com/img/vim-cheat-sheet/vim-logo.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Unknown&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;
+focal_point: &amp;rsquo;&#39;
+placement: 2
+preview_only: false&lt;/p&gt;
+&lt;p&gt;authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;admin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Academic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;categories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Demo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h1&gt;
+&lt;h2 id=&#34;указания-к-работе&#34;&gt;Указания к работе&lt;/h2&gt;
+&lt;p&gt;В большинстве дистрибутивов Linux в качестве текстового редактора по умолчанию устанавливается интерактивный экранный редактор vi (Visual display editor).
+Редактор vi имеет три режима работы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;командный режим — предназначен для ввода команд редактирования и навигации по редактируемому файлу;&lt;/li&gt;
+&lt;li&gt;режим вставки — предназначен для ввода содержания редактируемого файла;&lt;/li&gt;
+&lt;li&gt;режим последней (или командной) строки — используется для записи изменений в файл и выхода из редактора.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Для вызова редактора vi необходимо указать команду vi и имя редактируемого файла: vi &amp;lt;имя_файла&amp;gt;
+При этом в случае отсутствия файла с указанным именем будет создан такой файл.
+Переход в командный режим осуществляется нажатием клавиши Esc . Для выхода из редактора vi необходимо перейти в режим последней строки: находясь в командном режиме, нажать Shift-; (по сути символ : — двоеточие), затем:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;набрать символы wq, если перед выходом из редактора требуется записать изменения в файл;&lt;/li&gt;
+&lt;li&gt;набрать символ q (или q!), если требуется выйти из редактора без сохранения.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Замечание&lt;/strong&gt;. Следует помнить, что vi различает прописные и строчные буквы при наборе (восприятии) команд.&lt;/p&gt;
+&lt;h2 id=&#34;основные-группы-команд-редактора&#34;&gt;Основные группы команд редактора&lt;/h2&gt;
+&lt;h3 id=&#34;команды-позиционирования&#34;&gt;Команды позиционирования&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;0 (ноль) — переход в начало строки;&lt;/li&gt;
+&lt;li&gt;$ — переход в конец строки;&lt;/li&gt;
+&lt;li&gt;G — переход в конец файла;&lt;/li&gt;
+&lt;li&gt;n G — переход на строку с номером n.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;команды-перемещения-по-файлу&#34;&gt;Команды перемещения по файлу&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ctrl-d — перейти на пол-экрана вперёд;&lt;/li&gt;
+&lt;li&gt;Ctrl-u — перейти на пол-экрана назад;&lt;/li&gt;
+&lt;li&gt;Ctrl-f — перейти на страницу вперёд;&lt;/li&gt;
+&lt;li&gt;Ctrl-b — перейти на страницу назад.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;команды-перемещения-по-словам1&#34;&gt;Команды перемещения по словам1&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;W или w — перейти на слово вперёд;&lt;/li&gt;
+&lt;li&gt;n W или n w — перейти на n слов вперёд;&lt;/li&gt;
+&lt;li&gt;b или B — перейти на слово назад;&lt;/li&gt;
+&lt;li&gt;n b или n B — перейти на n слов назад.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;команды-редактирования&#34;&gt;Команды редактирования&lt;/h2&gt;
+&lt;h3 id=&#34;вставка-текста&#34;&gt;Вставка текста&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;а — вставить текст после курсора;&lt;/li&gt;
+&lt;li&gt;А — вставить текст в конец строки;&lt;/li&gt;
+&lt;li&gt;i — вставить текст перед курсором;&lt;/li&gt;
+&lt;li&gt;n i — вставить текст n раз;&lt;/li&gt;
+&lt;li&gt;I — вставить текст в начало строки.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;вставка-строки&#34;&gt;Вставка строки&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;о — вставить строку под курсором;&lt;/li&gt;
+&lt;li&gt;О — вставить строку над курсором.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;удаление-текста&#34;&gt;Удаление текста&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;x — удалить один символ в буфер;&lt;/li&gt;
+&lt;li&gt;d w — удалить одно слово в буфер;&lt;/li&gt;
+&lt;li&gt;d $ — удалить в буфер текст от курсора до конца строки;&lt;/li&gt;
+&lt;li&gt;d 0 — удалить в буфер текст от начала строки до позиции курсора;&lt;/li&gt;
+&lt;li&gt;d d — удалить в буфер одну строку;&lt;/li&gt;
+&lt;li&gt;n d d — удалить в буфер n строк.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;отмена-и-повтор-произведённых-изменений&#34;&gt;Отмена и повтор произведённых изменений&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;u — отменить последнее изменение;&lt;/li&gt;
+&lt;li&gt;. — повторить последнее изменение.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;копирование-текста-в-буфер&#34;&gt;Копирование текста в буфер&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Y — скопировать строку в буфер;&lt;/li&gt;
+&lt;li&gt;n Y — скопировать n строк в буфер;&lt;/li&gt;
+&lt;li&gt;y w — скопировать слово в буфер.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;вставка-текста-из-буфера&#34;&gt;Вставка текста из буфера&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;p — вставить текст из буфера после курсора;&lt;/li&gt;
+&lt;li&gt;P — вставить текст из буфера перед курсором.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;замена-текста&#34;&gt;Замена текста&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;c w — заменить слово;&lt;/li&gt;
+&lt;li&gt;n c w — заменить n слов;&lt;/li&gt;
+&lt;li&gt;c $ — заменить текст от курсора до конца строки;&lt;/li&gt;
+&lt;li&gt;r — заменить слово;&lt;/li&gt;
+&lt;li&gt;R — заменить текст.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;поиск-текста&#34;&gt;Поиск текста&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;/ текст — произвести поиск вперёд по тексту указанной строки символов текст;&lt;/li&gt;
+&lt;li&gt;? текст — произвести поиск назад по тексту указанной строки символов текст.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;команды-редактирования-в-режиме-командной-строки&#34;&gt;Команды редактирования в режиме командной строки&lt;/h2&gt;
+&lt;h3 id=&#34;копирование-и-перемещение-текста&#34;&gt;Копирование и перемещение текста&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;: n,m d — удалить строки с n по m;&lt;/li&gt;
+&lt;li&gt;: i,j m k — переместить строки с i по j, начиная со строки k;&lt;/li&gt;
+&lt;li&gt;: i,j t k — копировать строки с i по j в строку k;&lt;/li&gt;
+&lt;li&gt;: i,j w имя-файла — записать строки с i по j в файл с именем имя-файла.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;запись-в-файл-и-выход-из-редактора&#34;&gt;Запись в файл и выход из редактора&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;: w — записать изменённый текст в файл, не выходя из vi;&lt;/li&gt;
+&lt;li&gt;: w имя-файла — записать изменённый текст в новый файл с именем имя-файла;&lt;/li&gt;
+&lt;li&gt;: w ! имя-файла — записать изменённый текст в файл с именем имя-файла;&lt;/li&gt;
+&lt;li&gt;: w q — записать изменения в файл и выйти из vi;&lt;/li&gt;
+&lt;li&gt;: q — выйти из редактора vi;&lt;/li&gt;
+&lt;li&gt;: q ! — выйти из редактора без записи;&lt;/li&gt;
+&lt;li&gt;: e ! — вернуться в командный режим, отменив все изменения, произведённые
+со времени последней записи.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;опции&#34;&gt;Опции&lt;/h2&gt;
+&lt;p&gt;Опции редактора vi позволяют настроить рабочую среду. Для задания опций используется команда set (в режиме последней строки):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;lt;:&amp;gt; set all — вывести полный список опций;&lt;/li&gt;
+&lt;li&gt;&amp;lt;:&amp;gt; set nu — вывести номера строк;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;:&lt;/code&gt; set list — вывести невидимые символы;&lt;/li&gt;
+&lt;li&gt;&lt;kbd&gt;:&lt;/kbd&gt; set ic — не учитывать при поиске, является ли символ прописным или строчным.
+Если вы хотите отказаться от использования опции, то в команде set перед именем опции надо поставить no.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
