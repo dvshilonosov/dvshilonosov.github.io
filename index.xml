@@ -33,6 +33,99 @@
     </item>
     
     <item>
+      <title>Website creation</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;p&gt;Как сделать сайт самому: все способы&lt;/p&gt;
+&lt;p&gt;Тем, кто хочет разработать сайт, сегодня можно выбрать любой из 3 вариантов:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;написать проект с нуля на HTML, CSS и Javascript;
+
+собрать его на конструкторе сайтов;
+
+запустить через CMS-систему.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Первый вариант создания сайтов — самый трудоёмкий из всех. Чтобы от и до рассказать обо всех этапах и процессах в нём, не хватит даже одной длинной статьи. А потому поговорим об этом способе в следующий раз. Но если лёгкие пути не для вас, начните изучать эти языки на курсе по созданию сайтов в Skysmart. Там мы расскажем об особенностях каждого из них, научим кодить и познакомим с азами веб-дизайна.&lt;/p&gt;
+&lt;p&gt;А в этой статье мы разберём последние два способа: конструкторы сайтов и CMS-системы.
+Что такое CMS-системы и как создавать на них сайты&lt;/p&gt;
+&lt;p&gt;Сначала разберёмся, что кроется за этой аббревиатурой — CMS.&lt;/p&gt;
+&lt;p&gt;CMS-система — это система управления содержимым; специальная программа с большим набором функций, которая позволяет создавать, редактировать и управлять контентом на сайте.&lt;/p&gt;
+&lt;p&gt;Если проще, то CMS — это своеобразный движок для интернет-ресурсов, с помощью которого можно их настраивать. Теперь давайте кратко разберём несколько популярных CMS-систем и сравним их между собой.
+WordPress&lt;/p&gt;
+&lt;p&gt;WordPress — это одна из самых востребованных CMS-платформ. В ней есть много готовых шаблонов, а ещё создать блог, сайт-визитку и другие проекты на базе этой платформы можно бесплатно. И всё это — без знания кода! Самое то, чтобы самостоятельно сделать свой первый сайт.&lt;/p&gt;
+&lt;p&gt;А если ещё настроить плагины и добавить к этому навыки работы с языком программирования PHP, можно увеличить возможности Wordpress за пределы её базовых.&lt;/p&gt;
+&lt;p&gt;Преимущества WordPress&lt;/p&gt;
+&lt;p&gt;Чтобы понять, почему эта CMS-система так популярна, давайте разберём некоторые её достоинства.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Создать сайт на платформе можно бесплатно. Заплатить придётся только за доменное имя и хостинг. Причём и то, и другое тоже можно найти в бесплатном варианте за счёт пробных периодов и т. д.
+
+Просто установить программу. Настроить WordPress для работы можно за несколько щелчков мышкой.
+
+Автообновление. Когда выйдет более свежая версия CMS, она установится автоматически.
+
+Интуитивная работа. У WordPress понятный интерфейс: одного взгляда на кнопку достаточно, чтобы понять, для чего она нужна.
+
+Много шаблонов. На платформе можно найти кучу готовых решений для сайтов разных форматов: онлайн-блогов, информационных ресурсов и т. д. Это облегчает новичку создание сайтов на WordPress.
+
+Платформа автоматически адаптирует сайт под разные устройства. Это позволяет вашим проектам оставаться актуальными для людей, которые посещают их со смартфонов, ПК, ноутбуков и планшетов.
+
+«Живое» сообщество. Если у вас возникнут проблемы во время работы над сайтом, всегда можно найти ответ на любой вопрос на форуме. А если не получилось, просто задайте его и вам обязательно ответят.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Недостатки WordPress&lt;/p&gt;
+&lt;p&gt;Как бы ни была хороша эта платформа, у нее есть и минусы. Давайте разберём несколько из них. Это поможет избежать неприятных сюрпризов, если вы захотите когда-нибудь поработать на ней.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Многие плагины делают сторонние разработчики. Это значит, что они могут оказаться несовместимыми с официальными обновлениями WordPress. А ещё в них бывают ошибки, которые могут «сломать» ваш дизайн, и даже вирусы.
+
+Безопасность. WordPress — программа с открытым кодом. А значит, мошенникам проще найти в ней слабые места, чтобы использовать ваш проект в своих целях.
+
+Нет технической поддержки от разработчиков. Если вы столкнётесь с проблемой, можно не ждать, что вы напишете одно письмо и за вас все решат. С другой стороны, мы уже писали выше про развитое сообщество WordPress, к которому можно прийти за советом.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Мы кратко рассказали о WordPress, но не думайте, что на этом наше знакомство с этой CMS закончилось. Во второй части статьи мы ещё вернемся к ней, чтобы разобраться, как она работает и как создать на ней свой первый сайт с нуля.
+OpenCart&lt;/p&gt;
+&lt;p&gt;OpenCart — это условно-бесплатная CMS-система, популярная в России. Главным образом она хорошо подходит для разработки интернет-магазинов. Например, в РФ на базе этой платформы собрано больше 30% e-commerce-проектов. Те, кто уже пользовался OpenCart, говорят, что ей удобно пользоваться и легко устанавливать. А ещё, что она подходит тем, кто хочет сэкономить на создании сайта.&lt;/p&gt;
+&lt;p&gt;Преимущества OpenCart&lt;/p&gt;
+&lt;p&gt;Теперь поговорим о том, почему эта платформа нравится пользователям:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Развитое сообщество. Как и в случае в WordPress, у OpenCart есть много «живых» форумов, где публикуют расширения, гайды для новичков и новые темы. А ещё там всегда можно попросить совета у более опытных пользователей, если вы столкнулись с проблемой.
+
+Система аналитики. Она встроена в OpenCart, но если её базовых функций будет недостаточно, можно расширить их, подключив Google Analytics или Яндекс.Метрику.
+
+Хороший набор базовых функций. Можно настроить фильтры товаров, подключить нужную систему оплаты, добавить функцию подписки и многое другое.
+
+Можно управлять несколькими сайтами из одной админки.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Недостатки OpenCart&lt;/p&gt;
+&lt;p&gt;Эта CMS-система тоже не идеальна. Вот несколько минусов, на которые чаще всего жалуются пользователи OpenCart:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Если установить слишком много плагинов, платформа может работать медленно и тормозить работу ваших сайтов.
+
+Не все расширения безопасны. Если вы будете устанавливать плагины сторонних разработчиков, то рискуете слить данные злоумышленникам.
+
+Чтобы «подружить» ваш интернет-магазин с SEO, придётся найти и загрузить нужное расширение. Без него продвинуть сайт в поиске будет сложно.
+
+Иногда новые версии OpenCart бывают несовместимы с некоторыми модулями сайта.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Joomla&lt;/p&gt;
+&lt;p&gt;Joomla — это вторая по популярности CMS-система, функции которой делают её универсальной в создании и управлении сайтами. В отличие от той же OpenCart, она хорошо подходит для всех категорий сайтов: от интернет-магазинов до личных блогов. Освоить её не сложнее, чем другую CMS-систему. Но если вам нужен небольшой сайт, проще будет поработать с конструкторами, чем с ней. Joomla выбирают, когда хотят сделать средний или крупный проект. В них она полностью раскрывает свой потенциал.&lt;/p&gt;
+&lt;p&gt;Достоинства Joomla&lt;/p&gt;
+&lt;p&gt;Давайте же рассмотрим преимущества Joomla, которые, по мнению пользователей, выделяют её на фоне других CMS-систем:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Много базовых функций. И их список можно расширить ещё больше, если установить нужные плагины.
+
+Популярность платформы среди пользователей. Те, кто часто работает с Joomla, постоянно создают новый полезный контент о ней. Например, гайды для новичков, лайфхаки и подборки плагинов.
+
+Функционал Joomla не заточен под создание одного конкретного вида проектов. А значит, на этой платформе одинаково удобно работать при создании разных сайтов: визиток, интернет-магазинов, лендингов и т. д.
+
+Разработчики Joomla часто выпускают свежие обновления, которые исправляют ошибки версий и пополняют набор функций платформы.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Недостатки Joomla&lt;/p&gt;
+&lt;p&gt;Не забудем рассказать и о некоторых моментах, которые могут вам не понравиться в работе с этой платформой:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Невысокий уровень безопасности. Код сайтов на Joomla не так хорошо защищён. А значит, он будет уязвим для мошенников, которые могут воспользоваться «дырами» в безопасности.
+
+Иногда после обновления CMS часть плагинов может перестать работать. Это связано с несовместимостью их версий. Та же проблема, что и у WordPress.
+
+Несмотря на то, что Joomla ориентируется на крупные сайты, они сильно нагружают сервер. Из-за этого бывают сложности с доступом к ресурсу.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Теперь, когда мы кратко разобрали 3 популярные CMS-системы, можем сравнить их между собой. Для удобства мы сделали это в таблице ниже, где собрали все основные критерии. Они помогут вам оценить платформы и понять, какая из них больше всего подходит вам для создания проекта.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Markdown</title>
       <link>https://example.com/post/markdown/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -209,19 +302,6 @@ $$&lt;/p&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     
